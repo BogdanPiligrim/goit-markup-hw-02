@@ -1,32 +1,40 @@
-body{
-    font-family: Roboto;
-    background-color: #FFF; 
-    width: 1440px;
-    height: 3300px;
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
-.section-one {
-    background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
-    flex-shrink: 0;
-}
-h1 {
-    color: #FFF;
-    text-align: center;
-    font-size: 56px;
+.logo-web {
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
     font-weight: 700;
-    line-height: 60px; 
-    letter-spacing: 1.12px;
+    line-height: 1.17; 
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
-.button-service {
-    background-color: #4D5AE5;
-    padding: 16px 32px;
-    color: #FFFFFF;
+.logo-studio {
+    color:#2E2F42;
+    font-family:"Raleway", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px; 
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
-.section-two {
-    width: 1128px;
-    height: 104px;
+.li-naw {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.32px;
 }
-.li-content {
-    
+.li-naw:hover {
+    color: #404bbf;
+}
+.li-naw:focus {
+    color: #404bbf;
 }
