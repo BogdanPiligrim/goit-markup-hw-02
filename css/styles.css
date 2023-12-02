@@ -3,19 +3,22 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+.web-studio-nav {
+    text-decoration: none;
+}
+
 .logo-web {
     color: #4D5AE5;
-    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
 }
 .logo-studio {
     color:#2E2F42;
-    font-family:"Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -25,16 +28,31 @@ body {
 }
 .li-naw {
     color: #2E2F42;
-    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 24px; 
     letter-spacing: 0.32px;
+    text-decoration: none;
 }
 .li-naw:hover {
     color: #404bbf;
 }
 .li-naw:focus {
     color: #404bbf;
+}
+.li-ad {
+    color: #2e2f42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+.ul-ad {
+    list-style: none;
+}
+.ul-nav {
+    list-style: none;
 }
