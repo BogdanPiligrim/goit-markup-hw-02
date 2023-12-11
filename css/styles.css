@@ -45,8 +45,7 @@ body {
 .li-ad {
     color: #434455;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 1.5; 
     letter-spacing: 0.02em;
     text-decoration: none;
@@ -110,9 +109,6 @@ button:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.section-two {
-    background-color: #F4F4FD;
-}
 .content-two {
     font-size: 36px;
     line-height: 1.11;
@@ -121,18 +117,11 @@ button:focus {
     text-transform: capitalize;
     color: #2e2f42 ;
 }
-.li-content {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
+
 .content-paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 .section-our-team {
     background-color: #F4F4FD;
